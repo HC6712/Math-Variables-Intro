@@ -14,8 +14,6 @@ class Main {
 
     //ANSWER: 
 
-
-
     //Throughout the year this year we will need to store information. For that we will be using VARIABLES!
 
     //Java is an Object-Oriented programming language. All variables we use this year will either be OBJECTS or PRIMITIVES
@@ -26,8 +24,21 @@ class Main {
 
     //List examples of the types below and give definition
     //int (integer): 
+
+    int one, two, three = 3;
+
     //double:
+
+    double price = 5.99;
+    
+
     //boolean:
+
+boolean late = false;
+boolean early = true;
+boolean hi = true;
+
+System.out.println(hi);
 
     //For now we are just going to work with primitive
 
